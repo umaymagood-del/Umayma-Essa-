@@ -17,10 +17,14 @@ My focus is on helping organizations strengthen their security posture through g
 ---
 ##  Certifications
 - AWS Certified Solutions Architect – Associate
+  https://www.credly.com/badges/5dcc71a5-edd2-428e-8c5a-e78c35ccd455/linked_in_profile
+  
 - CompTIA Security+
-- 
+  https://www.credly.com/badges/ef9a074a-531d-4abd-9869-cd5ed735ac01/linked_in_profile
+  
 - ISC2 Certified in Cybersecurity (CC)
 https://www.credly.com/badges/53ac800f-0a86-4ea4-9d00-227a7aac2d9a/linked_in_profile
+
 - IBM Cybersecurity Analyst Professional Certificate
 - Cisco Endpoint Security
 - Cisco Cyber Threat Management
