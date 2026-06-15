@@ -28,7 +28,7 @@ https://www.credly.com/badges/53ac800f-0a86-4ea4-9d00-227a7aac2d9a/linked_in_pro
 - IBM Cybersecurity Compliance Framework & System Administration
 https://www.credly.com/badges/4af884c0-f5a1-4c28-87f6-1f0f55e2913c/linked_in_profile
 
-Cybersecurity for All  (DS4A)
+- Cybersecurity for All  (DS4A)
   https://www.credential.net/2ebfcac2-8bd8-4170-b89e-4417e361e95d#acc.Y2jUKzf5
  
 - Cisco Endpoint Security
