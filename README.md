@@ -25,10 +25,18 @@ My focus is on helping organizations strengthen their security posture through g
 - ISC2 Certified in Cybersecurity (CC)
 https://www.credly.com/badges/53ac800f-0a86-4ea4-9d00-227a7aac2d9a/linked_in_profile
 
-- IBM Cybersecurity Analyst Professional Certificate
+- IBM Cybersecurity Compliance Framework & System Administration
+https://www.credly.com/badges/4af884c0-f5a1-4c28-87f6-1f0f55e2913c/linked_in_profile
+
+Cybersecurity for All  (DS4A)
+  https://www.credential.net/2ebfcac2-8bd8-4170-b89e-4417e361e95d#acc.Y2jUKzf5
+ 
 - Cisco Endpoint Security
+  https://www.credly.com/badges/8ebdcc96-edc1-4ca3-be15-025e056ae873/linked_in_profile
 - Cisco Cyber Threat Management
+  https://www.credly.com/badges/4ce2fc84-7663-4734-b9ab-e586abda0fe3/linked_in_profile
 - Cisco Network Defense
+  https://www.credly.com/badges/8f23cfc4-31ca-477c-8f2f-9292a0a858e0/linked_in_profile
 ---
 ##  Portfolio Projects
 ### Cloud Governance & Security
