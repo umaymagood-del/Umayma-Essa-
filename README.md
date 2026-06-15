@@ -16,7 +16,7 @@ My focus is on helping organizations strengthen their security posture through g
 - Security Awareness & Training
 ---
 ##  Certifications
-- AWS Certified Solutions Architect – Associate
+ 
 <a href="https://www.credly.com/badges/5dcc71a5-edd2-428e-8c5a-e78c35ccd455">
     <img src="assets/aws-solutions-architect-badge.png" width="140">
 </a>
