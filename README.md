@@ -1,10 +1,11 @@
-# Hi, I'm Umayma Essa 👋
+# Hi, I'm Umayma Essa 
 ## Cloud Governance | Cybersecurity | Risk & Compliance
 
 I am an AWS Certified Solutions Architect, CompTIA Security+ certified, and ISC2 Certified in Cybersecurity (CC) professional with a background in healthcare, cybersecurity, and technical documentation.
 My focus is on helping organizations strengthen their security posture through governance, risk management, compliance, cloud security, and security awareness initiatives.
----
-## 🎯 Career Interests
+
+--- 
+##  Career Interests
 - Governance, Risk & Compliance (GRC)
 - Cloud Governance
 - Cloud Security
@@ -14,8 +15,7 @@ My focus is on helping organizations strengthen their security posture through g
 - Vendor Risk Management
 - Security Awareness & Training
 ---
-## 🏆 Certifications
-
+##  Certifications
 - AWS Certified Solutions Architect – Associate
 - CompTIA Security+
 - ISC2 Certified in Cybersecurity (CC)
@@ -24,7 +24,7 @@ My focus is on helping organizations strengthen their security posture through g
 - Cisco Cyber Threat Management
 - Cisco Network Defense
 ---
-## 📂 Portfolio Projects
+##  Portfolio Projects
 ### Cloud Governance & Security
 
 - AWS Security Audit
@@ -42,8 +42,7 @@ My focus is on helping organizations strengthen their security posture through g
 
 - The Overlooked Attack Surface: How Language Barriers Increase Cybersecurity Risk for Immigrant Communities
 ---
-## 🛠 Skills
-
+## Skills
 ### Governance & Compliance
 - NIST Cybersecurity Framework (CSF)
 - HIPAA
@@ -51,7 +50,6 @@ My focus is on helping organizations strengthen their security posture through g
 - Risk Assessment
 - Security Controls
 - Policy Development
-
 ### Cloud Security
 - AWS IAM
 - AWS CloudTrail
@@ -59,33 +57,25 @@ My focus is on helping organizations strengthen their security posture through g
 - AWS GuardDuty
 - AWS Config
 - AWS S3 Security
-
 ### Professional Skills
 - Technical Writing
 - Documentation
 - Risk Analysis
 - Security Awareness
 - Stakeholder Communication
-
 ---
-
-## 🌱 Currently Learning
-
+## Currently Learning
 - Cloud Governance
 - Third-Party Risk Management
 - Cloud Compliance
 - Security Auditing
 - AWS Security Best Practices
-
----
-
-## 📈 Professional Goal
+##  Professional Goal
 
 To build a career in Governance, Risk & Compliance (GRC), Cloud Governance, and Cybersecurity by creating practical projects that demonstrate real-world risk management, compliance, and security skills.
 
 ---
-
-## 🤝 Connect With Me
+##  Connect With Me
 
 - LinkedIn: (https://www.linkedin.com/in/umayma-essa-38736811a/)
  
