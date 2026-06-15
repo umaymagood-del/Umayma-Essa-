@@ -17,7 +17,7 @@ My focus is on helping organizations strengthen their security posture through g
 ---
 ##  Certifications
 - AWS Certified Solutions Architect – Associate
-  https://www.credly.com/badges/5dcc71a5-edd2-428e-8c5a-e78c35ccd455/linked_in_profile
+  <img src="https://www.credly.com/badges/5dcc71a5-edd2-428e-8c5a-e78c35ccd455/linked_in_profile/>
   https://coursera.org/share/2fce468442f25d314eadb31344f54853
 - CompTIA Security+
   https://www.credly.com/badges/ef9a074a-531d-4abd-9869-cd5ed735ac01/linked_in_profile
