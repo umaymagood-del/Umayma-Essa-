@@ -17,10 +17,8 @@ My focus is on helping organizations strengthen their security posture through g
 ---
 ##  Certifications
  
-<a href="https://www.credly.com/badges/5dcc71a5-edd2-428e-8c5a-e78c35ccd455">
-    <img src="assets/aws-solutions-architect-badge.png" width="140">
-</a>
-
+ <img src="assets/aws-solutions-architect-badge.png" href="https://www.credly.com/badges/5dcc71a5-edd2-428e-8c5a-e78c35ccd455">
+ 
   https://coursera.org/share/2fce468442f25d314eadb31344f54853
   
 - CompTIA Security+
