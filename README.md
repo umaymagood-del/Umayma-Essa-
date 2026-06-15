@@ -22,6 +22,7 @@ My focus is on helping organizations strengthen their security posture through g
 </a>
 
   https://coursera.org/share/2fce468442f25d314eadb31344f54853
+  
 - CompTIA Security+
   https://www.credly.com/badges/ef9a074a-531d-4abd-9869-cd5ed735ac01/linked_in_profile
   
@@ -40,7 +41,13 @@ https://www.credly.com/badges/4af884c0-f5a1-4c28-87f6-1f0f55e2913c/linked_in_pro
   https://www.credly.com/badges/4ce2fc84-7663-4734-b9ab-e586abda0fe3/linked_in_profile
 - Cisco Network Defense
   https://www.credly.com/badges/8f23cfc4-31ca-477c-8f2f-9292a0a858e0/linked_in_profile
----
+ 
+<img src="assets/aws-certified-solutions-architect-associate.png" width="120">
+
+<img src="assets/comptia-security-plus.png" width="120">
+
+<img src="assets/isc2-certified-in-cybersecurity-cc.png" width="120">
+ 
 ##  Portfolio Projects
 ### Cloud Governance & Security
 
